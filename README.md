@@ -2,4 +2,4 @@
 
 $\color{#880000}{\textsf{``𝔣𝔯𝔬𝔪 𝔱𝔥𝔢 𝔯𝔞𝔷𝔬𝔯 𝔱𝔬 𝔱𝔥𝔢 𝔯𝔬𝔰𝔞𝔯𝔶”}}$
 
-![blinkie](https://github.com/bxlletsandbats/bxlletsandbats/blob/main/blinkiesCafe-SA.gif)
+![blinkie](https://github.com/bxlletsandbats/bxlletsandbats/blob/main/blinkiesCafe-uf.gif)
